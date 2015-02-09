@@ -4,7 +4,7 @@
   <title><![CDATA[ngBlog]]></title>
   <link href="http://dzikri.github.io/atom.xml" rel="self"/>
   <link href="http://dzikri.github.io/"/>
-  <updated>2015-02-10T01:27:23+07:00</updated>
+  <updated>2015-02-10T03:14:04+07:00</updated>
   <id>http://dzikri.github.io/</id>
   <author>
     <name><![CDATA[Dzikri]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Octopress is complete]]></title>
+    <title type="html"><![CDATA[ngBlog dengan octopress]]></title>
     <link href="http://dzikri.github.io/blog/2015/02/08/octopress-is-complete/"/>
     <updated>2015-02-08T07:06:29+07:00</updated>
     <id>http://dzikri.github.io/blog/2015/02/08/octopress-is-complete</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2>Bloging</h2>
 ]]></content>
   </entry>
   
